@@ -1,5 +1,5 @@
 @app
-begin-app
+hello-deno
 
 @http
 get /
